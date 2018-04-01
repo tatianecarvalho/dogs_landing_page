@@ -1,0 +1,124 @@
+header {
+	background-color:#F0F8FF;
+	padding: 140px 0 100px;
+	background-image: url("/Users/tcarvalho/Documents/Hike/landing_page/img/dog-header.png");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	color: white;
+} 
+
+body {
+    color: #4a4a4a;
+}
+
+
+h1 {
+	color: white;
+	font-size: 36px;
+}
+
+
+@media (min-width: 576px) {
+	h1 {
+		font-size: 48px;
+	}
+}
+
+@media (min-width: 576px) {
+	header {
+		padding: 200px 0;
+	}
+}
+
+
+.section {
+	padding: 60px 40px;
+}
+
+
+@media (min-width: 576px) {
+	.section {
+		padding: 100px 0;
+	}
+}
+
+.first-section { 
+	background-color: white;
+}
+
+.first-section img { 
+	margin-bottom: 35px;
+}
+
+@media (min-width: 768px) {
+	.first-section img {
+		margin-bottom: 20px;
+	}
+}
+
+@media (min-width: 992px) {
+	.first-section img {
+		margin-bottom: 0;
+	}
+}
+
+
+.second-section {
+	background-color: #FBFBFB;
+}
+
+.second-section p {
+	color:#9DA2A6;
+}
+
+.second-section img {
+	width: 75px;
+	height: 75px;
+	margin: 25px 0 10px;
+}
+
+.third-section{
+	background-color: white;
+}
+
+.third-section img{
+	margin-top: 35px;
+}
+
+@media (min-width: 768px) {
+	.third-section img {
+		margin-top: 0;
+	}
+}
+
+.fourth-section {
+	background-color: #F0F8FF;
+	background-image: url("/Users/tcarvalho/Documents/Hike/landing_page/img/dogs-pattern.png");
+	background-repeat: repeat;
+	background-size: 192px 192px;
+}
+
+.nav-item {
+	margin: 10px 16px; 
+}
+
+.navbar-brand img {
+  height: 46px;
+  margin-right: 8px;
+  width: 46px;
+}
+
+footer {
+
+	background-color: white;
+	padding: 35px 0;
+}
+
+.footer-logo {
+	height: 22px;
+	margin-bottom: 3px;
+	width: 22px;
+
+}
+
