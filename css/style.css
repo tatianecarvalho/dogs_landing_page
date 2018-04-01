@@ -1,7 +1,7 @@
 header {
 	background-color:#F0F8FF;
 	padding: 140px 0 100px;
-	background-image: url("/Users/tcarvalho/Documents/Hike/landing_page/img/dog-header.png");
+	background-image: url("img/dog-header.png");
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -94,7 +94,7 @@ h1 {
 
 .fourth-section {
 	background-color: #F0F8FF;
-	background-image: url("/Users/tcarvalho/Documents/Hike/landing_page/img/dogs-pattern.png");
+	background-image: url("img/dogs-pattern.png");
 	background-repeat: repeat;
 	background-size: 192px 192px;
 }
